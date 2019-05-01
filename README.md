@@ -18,4 +18,4 @@
 ## Star
 * [paul-morris-167780.jpg——前往cdn.jsdelivr.net下载](https://cdn.jsdelivr.net/gh/vmlankub/MyDesktop@master/paul-morris-167780.jpg)
 
-![](paul-morris-167780.jpg)
+![](https://cdn.jsdelivr.net/gh/lkpo0v/5n@master/paul-morris-167780-2048x1366.jpg)
