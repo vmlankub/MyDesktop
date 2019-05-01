@@ -15,4 +15,4 @@
 
 ------------
 
-![](https://cdn.jsdelivr.net/gh/vmlankub/MyDesktop@master/paul-morris-167780.jpg)
+![](paul-morris-167780.jpg)
